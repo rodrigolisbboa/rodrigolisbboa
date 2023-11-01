@@ -19,4 +19,4 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=forthe-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-lisboaa/) 
 
 #
-![Snake animation](https://github.com/viniciusvianavieirauff/viniciusvianavieirauff/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/rodrigolisbboa/rodrigolisbboa/blob/output/github-contribution-grid-snake.svg)
