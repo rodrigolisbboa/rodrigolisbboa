@@ -18,4 +18,3 @@
 #
 
 #
-![Snake animation](https://github.com/rodrigolisbboa/rodrigolisbboa/blob/output/github-contribution-grid-snake.svg)
